@@ -11,7 +11,7 @@ const sansation = Sansation({
   subsets: ['latin'],
 });
 
-const navbar = () => {
+const neededavbar = () => {
   useEffect(() => {
     // Only animate TO visible state (no gsap.set needed)
     gsap.to('#navbar', {
@@ -52,4 +52,4 @@ const navbar = () => {
   )
 }
 
-export default navbar
+export default Navbar

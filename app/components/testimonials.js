@@ -182,7 +182,7 @@ const TestimonialsSection = () => {
 
                                     {/* Review Text */}
                                     <blockquote className={`text-gray-500 text-2xl leading-relaxed ${courgette.className}`}>
-                                        "{featuredTestimonial.review}"
+                                    &quot;{featuredTestimonial.review}&quot;
                                     </blockquote>
                                 </div>
                             </div>
@@ -230,7 +230,7 @@ const TestimonialsSection = () => {
 
                                         {/* Review Preview */}
                                         <p className={`text-gray-600 font-bold text-sm leading-relaxed line-clamp-2 ${courgette.className}`}>
-                                            "{testimonial.review.substring(0, 100)}..."
+                                            &quot;{testimonial.review.substring(0, 100)}...&quot;
                                         </p>
 
                                         {/* Click Indicator */}
