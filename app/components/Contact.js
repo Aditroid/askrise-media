@@ -91,7 +91,7 @@ const Footer = () => {
             
             <p className="text-gray-300 mb-6 leading-relaxed">
               We help businesses grow through strategic digital marketing solutions. 
-              From SEO to social media, we've got your digital presence covered.
+              From SEO to social media, we&apos;ve got your digital presence covered.
             </p>
 
             {/* Social Media Contact Buttons */}

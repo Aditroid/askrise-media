@@ -32,7 +32,7 @@ const Hero = () => {
         <div className='h-[60vh]'>
           <div className='grid grid-cols-2'>
             <div>
-              <h1 className={`text-9xl leading-[10vh] tracking-tighter ${enriqueta.className}`}>Want&nbsp;to Grow&nbsp;Your Business?<span className={`font-bold leading-[15vh] text-9xl tracking-normal`}>Let's&nbsp;<span className='text-[#f78d14]'>Talk</span></span></h1>
+              <h1 className={`text-9xl leading-[10vh] tracking-tighter ${enriqueta.className}`}>Want&nbsp;to Grow&nbsp;Your Business?<span className={`font-bold leading-[15vh] text-9xl tracking-normal`}>Let&apos;s&nbsp;<span className='text-[#f78d14]'>Talk</span></span></h1>
               <p className='text-2xl my-5'>AskRise Media is your one-stop digital marketing agency for social media management, SEO, website development & domain services. Grow online—start today!</p>
               <input type="text" placeholder='Enter Email Id' className={`px-5 py-2 border-black rounded-full me-2 ${enriqueta.className} w-1/3`} />
               <button className='bg-gradient-to-r from-orange-400 to-red-400 tracking-tighter rounded-full text-white font-bold text-lg mt-5 px-4 py-1.5 hover:font-bold hover:from-red-400 hover:to-orange-400 hover:cursor-pointer transition-all duration-500 active:scale-90'>Get in Touch</button>

@@ -133,7 +133,7 @@ const TestimonialsSection = () => {
                             What Our Clients Say
                         </h2>
                         <p className="text-gray-700 text-xl font-bold max-w-2xl mx-auto mb-10">
-                            Don't just take our word for it. Here's what our satisfied clients have to say about working with us.
+                            Don&apos;t just take our word for it. Here&apos;s what our satisfied clients have to say about working with us.
                         </p>
                     </div>
 
@@ -148,7 +148,7 @@ const TestimonialsSection = () => {
                             >
                                 {/* Decorative Quote */}
                                 <div className="absolute top-4 right-4 text-9xl text-orange-400 font-bold font-serif">
-                                    "
+                                &quot;
                                 </div>
 
                                 <div className="relative z-10">
